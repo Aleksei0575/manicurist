@@ -1,0 +1,39 @@
+/* Плагины */
+@import "plugins/normalize";
+//@import "plugins/simplebar";
+@import "plugins/swiper";
+
+/* Общие */
+@import "variables";
+@import "mixins";
+@import "fonts";
+@import "global";
+
+/* Форма */
+//@import "blocks/form-input";
+//@import "blocks/form-select";
+//@import "blocks/form-checkbox";
+//@import "blocks/form-radio-checkbox";
+//@import "blocks/main-form";
+
+/* Блоки */
+
+
+/* Шапка */
+//@import "blocks/logo";
+//@import "blocks/menu-btn";
+//@import "blocks/header-nav";
+//@import "blocks/top-applications";
+//@import "blocks/page-header";
+
+/* Подвал */
+//@import "blocks/page-footer";
+
+/* Карточка товара */
+//@import "blocks/main-slider";
+//@import "blocks/card-info";
+//@import "blocks/card-page";
+//@import "blocks/card-guarantee";
+
+/* main */
+//@import "blocks/page-content";
